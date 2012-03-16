@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.jgrapht</groupId>
+  <artifactId>jgrapht</artifactId>
+  <version>0.8.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20120316231223</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.8.4-SNAPSHOT</value>
+        <updated>20120316231223</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.8.4-SNAPSHOT</value>
+        <updated>20120316231223</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
